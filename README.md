@@ -191,13 +191,13 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Rohith**
+**Rohithvasanthan E**
 
 Computer Science and Engineering Student
 
-GitHub: [Add your GitHub profile link](https://github.com/)
+GitHub: [Add your GitHub profile link](https://github.com/Rohithvasanthan)
 
-LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/)
+LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/rohithvasanthan18)
 
 ---
 
